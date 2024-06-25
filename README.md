@@ -1,0 +1,1 @@
+I had participated in online Job Simulation program by Tata Consultancy Services.I was given an excel sheet of an Online retail store which I had cleaned and was asgined tha task of explaining the data through Power BI or Tableau.

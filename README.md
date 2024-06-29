@@ -1,1 +1,6 @@
-I had participated in online Job Simulation program by Tata Consultancy Services.I was given an excel sheet of an Online retail store which I had cleaned and was asgined tha task of explaining the data through Power BI or Tableau.
+ * Completed a simulation involving creating data visualizations for Tata
+   Consultancy Services
+ * Prepared questions for a meeting with client senior leadership
+ * Created visuals for data analysis to help executives with effective decision
+   making
+    
